@@ -21,3 +21,21 @@ td{
 table,td{
     border: 1px solid black;
 }
+#a{
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+  }
+  #n{
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+#btn-check{
+    cursor: pointer;
+}
+#x{
+    cursor: pointer;
+}
